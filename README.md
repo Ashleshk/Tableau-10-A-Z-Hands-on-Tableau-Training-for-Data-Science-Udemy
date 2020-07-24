@@ -44,4 +44,7 @@
 
 > [Course Link](https://www.udemy.com/share/101WbsBUEecFdWRnQ=/)
 
+2. **Provided By**
+![Super Data Science Team](https://github.com/Ashleshk/Tableau-10-A-Z-Hands-on-Tableau-Training-for-Data-Science-Udemy/blob/master/resource/27129696_acc1.jpg)
+
 > [Certificate](https://www.udemy.com/certificate/UC-47decefd-dd8a-48cb-aab7-24bb8ede3998/)
