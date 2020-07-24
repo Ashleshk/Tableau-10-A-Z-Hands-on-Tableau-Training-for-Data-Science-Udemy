@@ -56,8 +56,12 @@
 
 > [Certificate](https://www.udemy.com/certificate/UC-47decefd-dd8a-48cb-aab7-24bb8ede3998/)
 
-4. **I am Heartly ThankFull For**
+4. **I am Extremely ThankFull For**
 
 ![Udemy](https://github.com/Ashleshk/Tableau-10-A-Z-Hands-on-Tableau-Training-for-Data-Science-Udemy/blob/master/resource/Udemy.PNG)
 
 > Course Link -> [Udemy](https://www.udemy.com/share/101WbsBUEecFdWRnQ=/)
+
+5. **Similar Courses**
+
+> Power BI A-Z_Hands-On Power BI Training For Data Science
