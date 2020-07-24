@@ -32,6 +32,6 @@
 * Advanced Data Preparation (including latest updates in Tableau)
 
 ## Reference Links
-> [Course Link]()
+> [Course Link](https://www.udemy.com/share/101WbsBUEecFdWRnQ=/)
 
 > [Certificate](https://www.udemy.com/certificate/UC-47decefd-dd8a-48cb-aab7-24bb8ede3998/)
