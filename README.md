@@ -64,5 +64,5 @@
 
 5. **Similar Courses**
 
-> Power BI A-Z_Hands-On Power BI Training For Data Science
-> Machine Learning & TrainingNeural Network in MATLAB
+> Power BI A-Z_Hands-On Power BI Training For Data Science -> [Course link]() - [Github Link](https://github.com/Ashleshk/Power-BI-A-Z-Hands-On-Power-BI-Training-For-Data-Science-Udemy)
+> Machine Learning & TrainingNeural Network in MATLAB -> [link]
