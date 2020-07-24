@@ -31,6 +31,12 @@
 * Assigning Geographical Roles to Data Elements
 * Advanced Data Preparation (including latest updates in Tableau)
 
+## Instructor
+
+![Kirill Eremenko]()
+
+> **Kirill Eremenko** ,Data Scientist
+
 ## Reference Links
 1. **Course Reference Thumbnail**
 
