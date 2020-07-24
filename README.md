@@ -33,7 +33,7 @@
 
 ## Instructor
 
-![Kirill Eremenko]()
+![Kirill Eremenko](https://github.com/Ashleshk/Tableau-10-A-Z-Hands-on-Tableau-Training-for-Data-Science-Udemy/blob/master/resource/kiril.jpg)
 
 > **Kirill Eremenko** ,Data Scientist
 
